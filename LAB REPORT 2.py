@@ -13,8 +13,6 @@ import streamlit as st
 import random
 import matplotlib.pyplot as plt
 
-streamlit run app.py
-
 # ------------------------------
 # PAGE CONFIGURATION
 # ------------------------------
